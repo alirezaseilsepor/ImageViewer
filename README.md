@@ -34,7 +34,7 @@ allprojects {
 
 And then add the dependency to the **module `build.gradle`** file:
 ```gradle
-implementation 'com.github.alirezaseilsepor:ImageViewer:1.0.3'
+implementation 'com.github.alirezaseilsepor:ImageViewer:1.0.5'
 ```
 
 Download via **Maven**:
