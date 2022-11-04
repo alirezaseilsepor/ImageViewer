@@ -22,30 +22,12 @@ Need iOS and Android apps, MVP development or prototyping? Contact us via info@s
 ### Install
 Download via **Gradle**:
 
-Add this to the **project `build.gradle`** file:
-```gradle
-allprojects {
-    repositories {
-        ...
-        maven { url "https://jitpack.io" }
-    }
-}
-```
 
 And then add the dependency to the **module `build.gradle`** file:
 ```gradle
 implementation 'ir.king-app:utils:1.0.6'
 ```
 
-Download via **Maven**:
-```
-<dependency>
-  <groupId>com.github.stfalcon</groupId>
-  <artifactId>stfalcon-imageviewer</artifactId>
-  <version>latest_version</version>
-  <type>pom</type>
-</dependency>
-```
 
 Where the `latest_version` is the value from `Download` badge.
 
