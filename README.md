@@ -34,7 +34,7 @@ allprojects {
 
 And then add the dependency to the **module `build.gradle`** file:
 ```gradle
-implementation 'com.github.alirezaseilsepor:ImageViewer:1.0.5'
+implementation 'ir.king-app:utils:1.0.6'
 ```
 
 Download via **Maven**:
